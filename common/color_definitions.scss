@@ -1,0 +1,4 @@
+:root {
+  --mention-bg: #{dark-light-choose(var(--primary-low), var(--primary-low-mid))};
+  --mention-hover-bg: #{dark-light-choose(var(--primary-low-mid), var(--primary-medium))};
+}

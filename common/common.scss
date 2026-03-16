@@ -1,0 +1,13 @@
+a.mention,
+a.mention-group {
+  background: var(--mention-bg);
+  color: var(--primary);
+  text-decoration: none !important;
+}
+
+a.mention:hover,
+a.mention-group:hover {
+  background: var(--mention-hover-bg);
+  color: var(--primary);
+  text-decoration: none !important;
+}
