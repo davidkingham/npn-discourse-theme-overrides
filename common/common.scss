@@ -12,14 +12,12 @@ a.mention-group:hover {
   text-decoration: none !important;
 }
 
-
 .cooked a:not(.linkify-word):not(.mention):not(.mention-group) {
-  color: var(--link-color);
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
 
 .cooked a:not(.linkify-word):not(.mention):not(.mention-group):hover {
-  color: var(--link-hover-color);
+  color: var(--d-hover-link-color);
 }
