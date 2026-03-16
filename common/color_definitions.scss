@@ -2,5 +2,5 @@
   --mention-bg: #{dark-light-choose(var(--primary-low), var(--primary-300))};
   --mention-hover-bg: #{dark-light-choose(var(--primary-low-mid), var(--primary-medium))};
 
-  --d-link-color: #{dark-light-choose(var(--tertiary), var(--tertiary-high))};
+  --d-link-color: #{dark-light-choose(var(--tertiary), var(--quaternary))};
 }
