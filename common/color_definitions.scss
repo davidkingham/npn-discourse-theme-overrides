@@ -3,4 +3,5 @@
   --mention-hover-bg: #{dark-light-choose(var(--primary-low-mid), var(--primary-medium))};
 
   --d-link-color: #{dark-light-choose(var(--tertiary), var(--quaternary))};
+  --d-hover-link-color: #{dark-light-choose(var(--tertiary-hover), var(--tertiary))};
 }
