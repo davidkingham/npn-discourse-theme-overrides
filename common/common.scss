@@ -13,6 +13,7 @@ a.mention-group:hover {
 }
 
 .cooked a:not(.linkify-word):not(.mention):not(.mention-group) {
+  color: var(--d-link-color);
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
